@@ -1,0 +1,22 @@
+.slim {
+  width: 25px;
+}
+
+.bordered {
+  border: 4 px solid grey;
+}
+
+#box 1  {
+  height: 100px;
+  background: cyan;
+}
+
+#box 2 {
+  height: 200px;
+  background: yellow;
+}
+
+#box 3  {
+  height: 300px;
+  background: magenta;
+}

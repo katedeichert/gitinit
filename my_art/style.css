@@ -1,0 +1,29 @@
+body{
+  background: black;
+}
+.first-row  {
+  width: 800px;
+  height: 200px;
+  background: white;
+
+}
+
+.first {
+  background:red;
+  width: 100px;
+  height: 180px;
+
+}
+
+.second {
+  background: blue;
+  width: 100px;
+  height: 180px;
+
+}
+
+.third  {
+  background: #FFFF00;
+  width: 60px;
+  height: 180px;
+}

@@ -1,0 +1,7 @@
+img {
+  height: 100px;
+  img {
+    background-color: #B0B0EC;
+    border: 1px solid green;
+}
+}
